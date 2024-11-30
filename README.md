@@ -1,5 +1,5 @@
 # Text-Analyzer
-/*
+
 DESCRIPTION:
 C++ Program analyzes a text file and displays statistics and style warnings on the console using
 a BST data structure to store only unique words for efficiency.
